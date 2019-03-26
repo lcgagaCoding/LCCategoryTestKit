@@ -1,0 +1,16 @@
+PODS:
+  - LCTestKit (0.0.1)
+
+DEPENDENCIES:
+  - LCTestKit (from `../`)
+
+EXTERNAL SOURCES:
+  LCTestKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LCTestKit: 83606a03917942d694306acd48b637a2aad0502a
+
+PODFILE CHECKSUM: 63698136ecf78476222284f43ff3d520da48eaff
+
+COCOAPODS: 1.5.0.beta.1

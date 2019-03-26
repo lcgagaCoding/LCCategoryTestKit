@@ -1,0 +1,22 @@
+{
+  "name": "LCTestKit",
+  "version": "0.0.1",
+  "summary": "A short description of LCTestKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lcgagaCoding/LCCategoryTestKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "239668571@qq.com": "239668571@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/lcgagaCoding/LCCategoryTestKit.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LCTestKit/Classes/**/*"
+}

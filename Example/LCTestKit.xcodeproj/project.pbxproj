@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1B06FB9FCA35207A0E40C7AA /* LCTestKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = LCTestKit.podspec; path = ../LCTestKit.podspec; sourceTree = "<group>"; };
+		1B06FB9FCA35207A0E40C7AA /* LCTestKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LCTestKit.podspec; path = ../LCTestKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		3F0A3CE38C692064E4C715D2 /* Pods_LCTestKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LCTestKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58A195388D20070C39A /* LCTestKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LCTestKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -60,13 +60,13 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		790BB3D54CA6F058F7BC9ACB /* Pods_LCTestKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LCTestKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		7FA5BFC05FD247D6C1A0EDFD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		7FA5BFC05FD247D6C1A0EDFD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		82037EBF58135138B238F582 /* Pods-LCTestKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LCTestKit_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LCTestKit_Tests/Pods-LCTestKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		85310A9184CE315229C6C082 /* Pods-LCTestKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LCTestKit_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-LCTestKit_Example/Pods-LCTestKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		ABD6C65ED269CA4227067521 /* Pods-LCTestKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LCTestKit_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LCTestKit_Example/Pods-LCTestKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		CBED686AC08B4FC2A82975A9 /* Pods-LCTestKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LCTestKit_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LCTestKit_Tests/Pods-LCTestKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		F0AC73CDE2D297F58456C814 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		F0AC73CDE2D297F58456C814 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
